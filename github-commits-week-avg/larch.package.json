@@ -1,0 +1,11 @@
+{
+    "name": "github-commits-week-avg",
+    "title": "Github repo weekly commits average",
+    "shared": "private",
+    "tags": [
+        "github"
+    ],
+    "authors": [
+        "Stepan Kouba <stepan.kouba@gmail.com>"
+    ]
+}
