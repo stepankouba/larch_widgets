@@ -1,0 +1,10 @@
+{
+    "name": "github-issue-status",
+    "title": "Issues open vs. closed vs. assigned",
+    "tags": [
+        "github"
+    ],
+    "authors": [
+        "Stepan Kouba <stepan.kouba@gmail.com>"
+    ]
+}
